@@ -1,0 +1,6 @@
+C:\savitha\csharp\program7b\program7b\bin\Debug\program7b.exe.config
+C:\savitha\csharp\program7b\program7b\bin\Debug\program7b.exe
+C:\savitha\csharp\program7b\program7b\bin\Debug\program7b.pdb
+C:\savitha\csharp\program7b\program7b\obj\Debug\program7b.csproj.CoreCompileInputs.cache
+C:\savitha\csharp\program7b\program7b\obj\Debug\program7b.exe
+C:\savitha\csharp\program7b\program7b\obj\Debug\program7b.pdb

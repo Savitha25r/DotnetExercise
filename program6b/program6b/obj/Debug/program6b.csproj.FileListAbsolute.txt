@@ -1,0 +1,7 @@
+C:\savitha\csharp\program6b\program6b\bin\Debug\program6b.exe.config
+C:\savitha\csharp\program6b\program6b\bin\Debug\program6b.exe
+C:\savitha\csharp\program6b\program6b\bin\Debug\program6b.pdb
+C:\savitha\csharp\program6b\program6b\obj\Debug\program6b.csproj.AssemblyReference.cache
+C:\savitha\csharp\program6b\program6b\obj\Debug\program6b.csproj.CoreCompileInputs.cache
+C:\savitha\csharp\program6b\program6b\obj\Debug\program6b.exe
+C:\savitha\csharp\program6b\program6b\obj\Debug\program6b.pdb

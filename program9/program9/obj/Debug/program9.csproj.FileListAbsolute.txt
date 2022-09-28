@@ -1,0 +1,6 @@
+C:\savitha\csharp\program9\program9\bin\Debug\program9.exe.config
+C:\savitha\csharp\program9\program9\bin\Debug\program9.exe
+C:\savitha\csharp\program9\program9\bin\Debug\program9.pdb
+C:\savitha\csharp\program9\program9\obj\Debug\program9.csproj.CoreCompileInputs.cache
+C:\savitha\csharp\program9\program9\obj\Debug\program9.exe
+C:\savitha\csharp\program9\program9\obj\Debug\program9.pdb

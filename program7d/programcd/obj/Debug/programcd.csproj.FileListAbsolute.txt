@@ -1,0 +1,7 @@
+C:\savitha\csharp\programcd\programcd\bin\Debug\programcd.exe.config
+C:\savitha\csharp\programcd\programcd\bin\Debug\programcd.exe
+C:\savitha\csharp\programcd\programcd\bin\Debug\programcd.pdb
+C:\savitha\csharp\programcd\programcd\obj\Debug\programcd.csproj.AssemblyReference.cache
+C:\savitha\csharp\programcd\programcd\obj\Debug\programcd.csproj.CoreCompileInputs.cache
+C:\savitha\csharp\programcd\programcd\obj\Debug\programcd.exe
+C:\savitha\csharp\programcd\programcd\obj\Debug\programcd.pdb
