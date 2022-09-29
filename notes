@@ -1,0 +1,217 @@
+day1notes
+
+GIT -Open Source version control system 
+
+TFS - Team Foundation System -
+
+GitBash :Install it for windows
+
+Create a Directory/Folder for the training and move to that folder
+Eg : c:\Banu\Infinite
+
+Local Repository : 
+1. git init
+2. create some files
+3. git add .
+4. git commit -m <"message">
+5. create a remote repo and copy the link
+6. git remote add <remote repo alias name> <link of the remote repo>
+7. git push <remote repo alias name> master
+8. for getting any changes done at the remote repo
+    type  git pull <remote repo alias name> master
+
+-- Git status 
+-- git remote -v ( to see which is the remote repo in sync with our local repo)
+
+Global/Remote Repository
+
+
+Dot Net Framework : Is a software component that runs predominantly on windows os. It provides tools and libraries that enable the developers to build software faster and easier (RAD- Rapid Application Development)
+
+Dot Net is Microsofts web services strategy to connect information,people,systems and devices through software
+
+Types of Application:
+1. Console /Desktop
+2. Web Application  - restful apis  (.net framework and .net core)
+3. Mobile Application - Xamarin
+
+Namespace : is a logical organization of other namespaces,classes,interfaces,structures,delegates,events etc..
+--is also used to avoid name clashes
+
+On Compilation of  dot net sourcecode - assemblies are created
+
+Assemblies : Are a fundamental unit of deployement, version control,reuse and security for a .net application
+- It contains - PE(portable executable) header, CLR Header, Manifest and IL
+- Manifest file contains metadata (data aboutthe data)
+
+Assemblies can be either of type .exe or .dll
+
+Assemblies can be either shared or private
+Shared Assemblies are placed in GAC (Global Assembly Cache)
+
+Assembler Tools :
+1. ILDASM - IL Disassembler
+2. ILASM - IL Assembler
+
+CSharp : as a Language 
+
+Is a modern, general purpose object oriented programming language developed by Microsoft (Anders Hejlsberg) 
+
+Obeject Oriented programming (OOPS)
+ WYSIWYG
+
+Class : A blue print of a complete unit of Data (state) and Behaviours. It a data type (user defined)
+
+Objects : An instance of a class
+
+
+
+Day2
+Data Type Conversions:
+
+1. Implicit Conversions : Lower data type can be put into a higher datatype(compiler based)
+2. Explicit Comversions : Higher data type to a lowerdatatype 
+
+
+int.tryparse()- can be used to convert string to int without throwing any exception
+float.tryparse() - can be used to convert string to float "   ""  ""
+
+Debugging : Break Point
+  
+Arrays : Continuos memory allocation of a single datatype
+
+  Decision making  - if else, switch
+
+ Jump Statements : break, continue, goto, return, throw etc..
+
+  Iterations - loops (do.. while, while ..do, for, foreach)
+
+initialization
+condition
+increment or decrement (to change the condition and terminate the loop)
+
+int [] arr= new int[5];
+arr[0]=50; arr[1]=56;  .... arr[4]=80;
+
+int[]arr = new int[4]{50,56,75,67};
+
+int []arr ={50,56,75,60};
+
+System.Array class : supports many functions
+ sort()
+ reverse()
+ copy()
+ length; returns the sixe of the array
+ rank; return the dimension of the array
+
+One dimensional    int [] arr = new int[5];
+
+Two Dimesional     int [,] 2arr = new int[3,4] {{12,32,45,77},
+{30,45,89,10},
+{25,57,5,35}};
+
+Jagged Array : Array of Arrays. An element of  jagged array itself is an array
+
+int [][] jaggedarr = new int[4][];
+
+jaggedarr[0]= new int[] {1,2,3,4};
+jaggedarr[1]=new int[]{5,6,7};
+jaggedarr[2]=new int[]{8,9};
+jaggedarr[3]=new int[]{11,13,14,15,18,20};
+
+
+strings: 
+
+
+Day3
+
+string : strings are collection of characters
+Memory allocation is on the heap
+They are predefined reference types
+strings are immutable
+strings have fixed size
+
+Functions:
+Copy()
+Concat() -  String.Concat(s1,s2)
+ToChatArray()- converts string to an character array
+replace()
+
+
+stringbuilder class : a mutable string of characters
+
+Structures : are User Defined Value Type
+
+int marks;
+int[]marks=new int[10]
+
+structure marks
+{
+   int english;
+   int maths;
+   int science;
+   int social;
+   int sanskrit;
+
+}
+
+marks[] stdmarks= new marks[20]
+
+int a=90;
+int b;
+b=a;
+a=100;
+cw(a, b)
+
+
+Methods and Parameters
+1. Value Type (call by value)
+2. Ref type (call by reference)
+3. out parameters : when we want more return values from a function
+4. paramarray (parameter array) - helps in giving variable number of arguments/parameters, arraylist seperated by a comma, or no arguments
+params is a keyword. It should be the last in the argument list.
+Only one param is allowed /method
+
+
+
+Day4
+
+
+implicitly typed :
+
+var : We need to assign a value to a var type while declaring itself. Once assigned cannot change the type
+
+dynamic : An object that remains dynamic, but can take up any type and convert at the runtime. It has an overhead on Performance. Hence to limit usage of dynamic type. 
+
+Classes and Objects : Class is a unit of all field and methods needed for the application.
+
+Objects : are the instances of the class, which are real and workable.
+
+Constructors : Are special functions of a class
+- They have the same name as that of the class
+- They have to be public or internal
+- They do not have any return type
+- They can be overloaded
+- They are used to initialize fields
+- They are called during object creation
+
+When a class does not have a constructor of its own, the system provides a default constructor
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data Types : 2 types
+1. Value Types - All Integral data types(system/primitive/fundamental)
+  Boolean, Integer,Float,Decimal,Character  etc.
+2. Reference Types : All class,arrays,interface,delegates,events etc 
+
+
