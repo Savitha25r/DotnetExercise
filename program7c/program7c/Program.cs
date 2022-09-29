@@ -12,10 +12,7 @@ public class program7c
 
         int[] marks = new int[10];
 
-
-
-
-
+       
         //Inputs -- Marks
 
 

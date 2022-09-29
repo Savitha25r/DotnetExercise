@@ -1,0 +1,2 @@
+C:\savitha\csharp\helloworld\helloworld\obj\Debug\helloworld.csproj.AssemblyReference.cache
+C:\savitha\csharp\helloworld\helloworld\obj\Debug\helloworld.csproj.CoreCompileInputs.cache

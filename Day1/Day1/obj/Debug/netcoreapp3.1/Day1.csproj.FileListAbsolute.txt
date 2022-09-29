@@ -1,0 +1,5 @@
+C:\savitha\csharp\Day1\Day1\obj\Debug\netcoreapp3.1\Day1.csproj.AssemblyReference.cache
+C:\savitha\csharp\Day1\Day1\obj\Debug\netcoreapp3.1\Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\savitha\csharp\Day1\Day1\obj\Debug\netcoreapp3.1\Day1.AssemblyInfoInputs.cache
+C:\savitha\csharp\Day1\Day1\obj\Debug\netcoreapp3.1\Day1.AssemblyInfo.cs
+C:\savitha\csharp\Day1\Day1\obj\Debug\netcoreapp3.1\Day1.csproj.CoreCompileInputs.cache
