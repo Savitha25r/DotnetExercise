@@ -1,0 +1,7 @@
+C:\savitha\csharp\Studentassignment\Studentassignment\obj\Debug\Studentassignment.csproj.AssemblyReference.cache
+C:\savitha\csharp\Studentassignment\Studentassignment\obj\Debug\Studentassignment.csproj.CoreCompileInputs.cache
+C:\savitha\csharp\Studentassignment\Studentassignment\bin\Debug\Studentassignment.exe.config
+C:\savitha\csharp\Studentassignment\Studentassignment\bin\Debug\Studentassignment.exe
+C:\savitha\csharp\Studentassignment\Studentassignment\bin\Debug\Studentassignment.pdb
+C:\savitha\csharp\Studentassignment\Studentassignment\obj\Debug\Studentassignment.exe
+C:\savitha\csharp\Studentassignment\Studentassignment\obj\Debug\Studentassignment.pdb
